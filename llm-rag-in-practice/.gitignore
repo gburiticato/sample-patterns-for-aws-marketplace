@@ -1,0 +1,18 @@
+# LLM RAG in Practice
+# Python venv
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+.env
+
+*.js
+!jest.config.js
+*.d.ts
+node_modules

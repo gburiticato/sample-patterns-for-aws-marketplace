@@ -1,0 +1,5 @@
+# Obsevable Self-Service EKS
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+.env
